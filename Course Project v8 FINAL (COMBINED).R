@@ -16,13 +16,13 @@ library(rugarch)
 library(fGarch)
 library(timeSeries)
 # Monthly average bike data
-obc <- read.csv("C:\\Users\\clpga\\Documents\\School Work\\Time Series Analysis 1 MA 641\\Group Project\\BIKE DATA MONTHLY.csv")
+obc <- read.csv(#filepath)
 #BIKE_DATA_MONTHLY <- obc
 # Raw bike data
-abc <- read.csv("C:\\Users\\clpga\\Documents\\School Work\\Time Series Analysis 1 MA 641\\Group Project\\ottawa_bike_counters.csv")
+abc <- read.csv(#filepath)
 
 # AAPL stock data
-AAPL <- read.csv("C:\\Users\\clpga\\Documents\\School Work\\Time Series Analysis 1 MA 641\\Group Project\\AAPL.csv")
+AAPL <- read.csv(#filepath)
 
 #APPLE STOCK PRICE SECTION
 
